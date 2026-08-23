@@ -1,4 +1,4 @@
-# HDL Practice
+# OndeviceAI2 — HDL Practice
 
 Verilog/SystemVerilog 학습 과정에서 진행한 실습성 프로젝트 모음. 각 폴더가 독립된 실습 하나에 대응한다. 정식 완료보고서·검증 결과까지 갖춘 프로젝트는 별도 저장소로 분리해뒀다 — 아래 목록의 `→` 표시 참고.
 
