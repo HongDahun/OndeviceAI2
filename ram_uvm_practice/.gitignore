@@ -1,0 +1,25 @@
+work/
+transcript
+*.log
+*.wlf
+*.vstf
+*.key
+*.fsdb
+novas.*
+vsim.dbg
+
+# VCS
+simv
+simv.daidir/
+simv.vdb/
+csrc/
+
+# Coverage
+coverage.vdb/
+vdCovLog/
+
+# Verdi
+verdiLog/
+*.xml
+vc_hdrs.h
+vdCov.conf

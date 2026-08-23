@@ -1,0 +1,15 @@
+simv
+simv.daidir/
+simv.vdb/
+coverage.vdb/
+csrc/
+verdiLog/
+vdCovLog/
+
+*.fsdb
+*.log
+*.xml
+*.key
+novas.rc
+vc_hdrs.h
+vdCov.conf

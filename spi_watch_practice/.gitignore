@@ -1,0 +1,23 @@
+# Vivado generated directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.xil/
+
+# Vivado simulation
+xsim.dir/
+*.wcfg
+
+# Vivado logs
+*.jou
+*.log
+*.str
+
+# Vivado generated databases
+*.pb
+
+# Windows
+Thumbs.db
+Desktop.ini

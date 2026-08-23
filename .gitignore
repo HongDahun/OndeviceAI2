@@ -1,0 +1,36 @@
+# Vivado generated
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xil/
+*.jou
+*.log
+*.str
+.Xil/
+
+# Simulation (VCS/Verdi)
+*.fsdb
+*.vstf
+*.wcfg
+*.wlf
+*.pb
+coverage.vdb/
+csrc/
+novas.*
+novas.rc
+simv
+simv.daidir/
+simv.vdb/
+transcript
+vc_hdrs.h
+vdCovLog/
+verdiLog/
+vsim.dbg
+xsim.dir/
+
+# Misc
+*.key
+Desktop.ini
+Thumbs.db
